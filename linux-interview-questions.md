@@ -1,4 +1,4 @@
-# what is linux and main features of it?
+# 1.what is linux and main features of it?
 
 - Linux is a family of open-source Unix-like operating systems based on the Linux kernel, which was originally created by Linus Torvalds in 1991.
 - It is one of the most prominent examples of free and open-source software collaboration.
